@@ -141,6 +141,7 @@ const VITE_API_BASE_URL = "http://localhost:5000";
 ## 📸 Screenshots
 <img width="2560" height="2260" alt="taskflow-frontend-xi-puce vercel app_ (1)" src="https://github.com/user-attachments/assets/d03eb3f6-0d46-4494-a388-ff51ccc760d4" />
 <img width="2560" height="2260" alt="taskflow-frontend-xi-puce vercel app_ (2)" src="https://github.com/user-attachments/assets/f5631015-7030-4acc-90b1-117081a605dd" />
+<img width="2560" height="1994" alt="taskflow-frontend-xi-puce vercel app_ (3)" src="https://github.com/user-attachments/assets/42c39cd3-657f-4107-81ec-ac94fdb38e8e" />
 
 
 
